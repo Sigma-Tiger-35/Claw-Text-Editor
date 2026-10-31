@@ -3,6 +3,9 @@
 Claw is a Free and open source terminal based minimalist cli text editor with zero telemetry and zero dependencies although it requires python 3 to work since it is a python script obviously...
 
 it is open for pull requests help claw get better :)
+if you guys find any issues please let me know hmmm
+
+thanks
 
 # warning
 
